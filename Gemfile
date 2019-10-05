@@ -36,7 +36,7 @@ Encoding.default_internal = Encoding::UTF_8
 
 gemspec
 
-gem 'rails', '~> 5.1'
+gem 'rails', '>= 5.1'
 
 gem 'bundler'
 gem 'puma'
